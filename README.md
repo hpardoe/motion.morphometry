@@ -1,5 +1,5 @@
 Contains data used in manuscript "Motion and morphometry in clinical and nonclinical populations"
 
-Preprint found here: https://peerj.com/preprints/1363/
+Citation: Pardoe, H.R., Kucharsky Hiess, R., and Kuzniecky, R. (2016) Motion and morphometry in clinical and nonclinical populations, Neuroimage, [doi:10.1016/j.neuroimage.2016.05.005] (http://www.sciencedirect.com/science/article/pii/S1053811916301197)
 
 To recreate analyses, run commands found in source.me.all.analyses.20160417.R in R
